@@ -7,7 +7,7 @@ $ git clone git@github.com:webcyou-org/jwt-server.git
 ```
 ## Server Framework List
 
-- Ruby on Rails 5
+- [Ruby on Rails 5](https://github.com/webcyou-org/jwt-server/tree/rails-nuxt)
 
 
 
