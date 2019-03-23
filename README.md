@@ -1,5 +1,10 @@
 # JWT（JSON Web Tokens） Authorization - Server
 
+### What are JSON Web Tokens?
+
+[JWT](http://jwt.io/)
+
+
 ## Setup
 
 ```
