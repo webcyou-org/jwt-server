@@ -36,6 +36,11 @@ $ bundle exec rails s
 
 Listening on tcp://localhost:3000
 
+## Use Gem
+
+- [knock](https://github.com/nsarno/knock)
+
+
 ## API EndPoints
 
 **Host**
@@ -118,3 +123,8 @@ $ git clone --recursive git@github.com:webcyou-org/jwt-server.git
 * <https://github.com/webcyou-org>
 * <https://github.com/panicdragon>
 * <http://www.webcyou.com/>
+
+## License
+
+Copyright (c) 2019 Daisuke Takayama
+Released under the [MIT license](http://opensource.org/licenses/mit-license.php)
